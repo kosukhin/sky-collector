@@ -15,6 +15,7 @@
     "clean": "rimraf dist",
     "type-check": "tsc --noEmit",
     "type-check-server": "tsc --project tsconfig.server.json --noEmit",
+    "push-head": "git push origin HEAD",
     "commit": "cz",
     "release": "standard-version",
     "release:minor": "standard-version --release-as minor",
