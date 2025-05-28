@@ -28,9 +28,9 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "silentium": "^latest",
-    "silentium-components": "^latest",
-    "silentium-web-api": "^latest"
+    "silentium": "^0.0.35",
+    "silentium-components": "^0.0.20",
+    "silentium-web-api": "^0.0.7"
   },
   "devDependencies": {
     "@babel/core": "^7.22.0",
